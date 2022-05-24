@@ -435,3 +435,5 @@ TSWLatexianTemp*
 # --------------- Other ignored ---------------
 *.txt
 *.csv
+*.pkz
+*.gz
